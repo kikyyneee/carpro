@@ -31,7 +31,7 @@
         <div class="container px-4 px-lg-5">
             <!-- Heading Row-->
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="{{ asset('img/car1.jpg') }}" alt="..." /></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="{{ asset('img/diskon2.gif') }}" alt="..." /></div>
                 <div class="col-lg-5">
                     <h1 class="font-weight-light">Beli Mobil Baru Mu Disini</h1>
                     <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
@@ -62,9 +62,9 @@
                         <div class="image-holder" style="background-image: url({{asset('img/car1.jpg')}});" >
                         </div>
                         <div class="card-body">
-                            <h2 class="card-title">Mobil 1</h2>
-                            <p class="card-text price">RP.100.000.000</p>
-                            <p class="card-text tenor">2jt an per bulan</p>
+                            <h2 class="card-title">Mobil 2</h2>
+                            <p class="card-text price">RP.300.000.000</p>
+                            <p class="card-text tenor">3jt an per bulan</p>
                             <p class="card-text">DP mulai dari 30jt an</p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Pesan disini</a></div>
@@ -75,9 +75,9 @@
                         <div class="image-holder" style="background-image: url({{asset('img/car3.jpg')}});" >
                         </div>
                         <div class="card-body">
-                            <h2 class="card-title">Mobil 1</h2>
-                            <p class="card-text price">RP.100.000.000</p>
-                            <p class="card-text tenor">2jt an per bulan</p>
+                            <h2 class="card-title">Mobil 3</h2>
+                            <p class="card-text price">RP.400.000.000</p>
+                            <p class="card-text tenor">5jt an per bulan</p>
                             <p class="card-text">DP mulai dari 30jt an</p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">Pesan disini</a></div>
@@ -87,7 +87,7 @@
         </div>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2021</p></div>
+            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white">Copyright &copy; LukyMobil 2021</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
